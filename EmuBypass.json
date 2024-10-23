@@ -9,12 +9,12 @@
       "replace": "40"
     },
     {
-      "search": "",
-      "replace": ""
+      "search": "28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11",
+      "replace": "30"
     },
     {
       "search": "28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11",
-      "replace": "30"
+      "replace": ""
     },
     {
       "search": "",
