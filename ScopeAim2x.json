@@ -1,4 +1,8 @@
 {
-  "search": "C0 3F 33 33 13 40 00 00 F0 3F 00 00 80 3F 01 00 00 00 ?? 00 ?? ?? ?? ?? ?? ?? 00 00 00 00 FF FF FF FF 0E CC 03 00 FF FF FF FF FF FF FF FF 01",
-  "replace": "C0 3F 33 33 FF FF"
+  "updates": [
+    {
+      "search": "C0 3F 33 33 13 40 00 00 F0 3F 00 00 80 3F 01 00 00 00 ?? 00 ?? ?? ?? ?? ?? ?? 00 00 00 00 FF FF FF FF 0E CC 03 00 FF FF FF FF FF FF FF FF 01",
+      "replace": "C0 3F 33 33 FF FF"
+    }
+  ]
 }
