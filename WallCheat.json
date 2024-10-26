@@ -3,6 +3,8 @@
     {
       "search": "AE 47 81 3F AE 47 81 3F 00 1A B7 EE DC 3A 9F ED 30 00 4F E2 43 2A B0 EE",
       "replace": "AE 47 81 BF"
+      "startAddress": "0x00000000",
+      "endAddress": "0x8f000000"
     }
   ]
 }
