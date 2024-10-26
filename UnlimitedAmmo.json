@@ -3,6 +3,8 @@
     {
       "search": "B4 00 D0 E5 1E FF 2F E1 B4 10 C0 E5 1E FF 2F E1 B5 00 D0 E5 1E FF 2F E1 B5 10 C0 E5 1E FF 2F E1 30 48 2D E9 08 B0 8D E2 00 40 A0 E1",
       "replace": "B4 00 A0 E3"
+      "startAddress": "0x70000000",
+      "endAddress": "0xcf000000"
     }
   ]
 }
