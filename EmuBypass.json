@@ -4,19 +4,19 @@
       "search": "1C 00 ? E5 ? ? 94 E5 ? ? ? ? ? 00 57 E3",
       "replace": "1D",
       "startAddress": "0x50000000",
-      "endAddress": "0x7f000000"
+      "endAddress": "0xbf000000"
     },
     {
       "search": "3C 51 88 E5 ? ? ? E5 ? ? ? ? ? 00",
       "replace": "40",
       "startAddress": "0x50000000",
-      "endAddress": "0x7f000000"
+      "endAddress": "0xbf000000"
     },
     {
       "search": "28 01 87 E5 00 70 94 E5 01 10 9F E7 00 00 91 E5 BF 10 D0 E5 02 00 11",
       "replace": "30",
       "startAddress": "0x50000000",
-      "endAddress": "0x7f000000"
+      "endAddress": "0xbf000000"
     }
   ]
 }
