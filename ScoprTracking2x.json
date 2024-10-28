@@ -2,7 +2,9 @@
   "updates": [
     {
       "search": "",
-      "replace": ""
+      "replace": "",
+      "startAddress": "0x80000000",
+      "endAddress": "0xbf000000"
     }
   ]
 }
