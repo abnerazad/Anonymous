@@ -1,0 +1,10 @@
+{
+  "updates": [
+    {
+      "search": "",
+      "replace": "",
+      "startAddress": "0x00000000",
+      "endAddress": "0xff000000"
+    }
+  ]
+}
