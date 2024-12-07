@@ -2,7 +2,7 @@
   "updates": [
     {
       "search": "1c 00 85 e5 00 70 94 e5 c0 50 96 e5 00 00 57 e3 01 00 00 1a",
-      "replace": "1D",
+      "replace": "1d",
       "startAddress": "0x00000000",
       "endAddress": "0xbf000000"
     },
